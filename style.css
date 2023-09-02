@@ -1,0 +1,12 @@
+.cell {
+    width: 80px;
+    border: 1px solid #555;
+    height: 40px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.cell:focus {
+    background: #ddd;
+    border: 3px solid dodgerblue;
+}
